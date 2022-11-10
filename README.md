@@ -10,7 +10,11 @@ This repository contains personal configurations to build a pgbouncer image in O
 
   - PostgreSQL : https://www.postgresql.org
   - pgbouncer : https://www.pgbouncer.org
+
+**Requirements**
   
+  - Docker Buildkit
+
 ### Environment Variables
 
 *To be implemented*
